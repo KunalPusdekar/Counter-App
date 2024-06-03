@@ -1,0 +1,55 @@
+body{
+   height: 100vh; 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: blanchedalmond;
+}
+.main{
+    padding:2vh 2vh;
+    border: 1vh solid;
+    background-color: cornsilk;
+    border-radius: 2vh;
+}
+h1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box
+{
+    padding: 1vh 2vh;
+    border: 1vh solid;
+    border-radius: 1vh;
+    color:cornflowerblue;
+}
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#decrement{
+    margin-right: 1vh;
+    color:red;
+
+}
+#increment{
+    margin-left: 1vh;
+    color:green;
+
+}
+.second{
+    
+    margin-top: 2vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#reset{
+   color:skyblue;
+   background-color: black;
+   border-radius: 1vh;
+}
